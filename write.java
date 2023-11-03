@@ -1,0 +1,4 @@
+log
+  sin
+  cos
+    tan
